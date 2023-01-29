@@ -1,3 +1,8 @@
+# Deployed at https://angular-baseframework.vercel.app/
+
+# STEPS TO FOLLOWS
+    => cmd: ng add @angular/material
+
 # BaseFramework
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
